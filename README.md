@@ -18,11 +18,11 @@ git clone https://github.com/Mkr404-Cyber/X-PRO.git
 ```shell
 cd X-PRO 
 git pull
-python pro.py
+python MKR.py
 ```
 #### About
 ```shell
-This tool is paid.You need to get premium.
+This tool is Free.❤️❤️.
 ```
 
 ##### MY SOCIAL MEDIA
